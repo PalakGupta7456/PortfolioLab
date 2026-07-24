@@ -75,3 +75,8 @@ class Settings:
 
 
 settings = Settings()
+
+settings.LOG_DIR.mkdir(exist_ok=True)
+settings.DATA_DIR.mkdir(exist_ok=True)
+settings.CACHE_DIR.mkdir(exist_ok=True)
+settings.REPORT_DIR.mkdir(exist_ok=True)

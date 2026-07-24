@@ -1,32 +1,18 @@
 from portfolio_lab.config import settings
+from portfolio_lab.utils import get_logger
+
+logger = get_logger(__name__)
 
 
 def main():
+    logger.info("Starting PortfolioLab")
 
     print("=" * 60)
     print(settings.PROJECT_NAME)
     print(settings.VERSION)
     print("=" * 60)
 
-    print()
-
-    print("Root Directory")
-    print(settings.ROOT_DIR)
-
-    print()
-
-    print("Data Directory")
-    print(settings.DATA_DIR)
-
-    print()
-
-    print("Risk Free Rate")
-    print(settings.RISK_FREE_RATE)
-
-    print()
-
-    print("Trading Days")
-    print(settings.TRADING_DAYS)
+    logger.info("Application initialized successfully")
 
 
 if __name__ == "__main__":
