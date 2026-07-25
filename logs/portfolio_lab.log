@@ -15,3 +15,29 @@
 2026-07-25 13:59:31,295 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
 2026-07-25 13:59:48,140 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
 2026-07-25 13:59:50,580 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:33:34,005 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:33:35,106 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:40:06,804 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:40:08,004 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:40:08,006 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:40:08,054 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:43:09,696 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:43:10,851 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:43:10,860 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:43:10,894 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:53:55,751 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:54:00,524 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 14:54:00,524 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 14:54:00,580 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:07:53,866 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:07:55,573 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:07:55,580 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:07:55,624 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:08:52,155 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:08:54,292 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:08:54,292 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:08:54,347 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:10:10,192 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:10:12,017 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
+2026-07-25 19:10:12,036 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloading AAPL from Yahoo Finance
+2026-07-25 19:10:12,082 | INFO     | portfolio_lab.datasource.yahoo_provider | Downloaded 252 candles.
